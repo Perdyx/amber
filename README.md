@@ -2,6 +2,8 @@
 
 A monochromatic tri-tone colour scheme based on the aesthetic of VT420 machines.
 
+## Preview
+
 ![](https://raw.githubusercontent.com/Perdyx/amber/main/preview.png)
 
 ## Usage
