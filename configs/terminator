@@ -1,0 +1,23 @@
+[global_config]
+  title_transmit_fg_color = "#ffbf00"
+  title_transmit_bg_color = "#000000"
+  title_inactive_fg_color = "#ffbf00"
+  title_inactive_bg_color = "#000000"
+
+[profiles]
+  [[default]]
+    palette = "#000000:#fff14e:#ffbf00:#ffbf00:#c78f00:#fff14e:#ffbf00:#ffbf00:#000000:#fff14e:#fff14e:#fff14e:#c78f00:#fff14e:#fff14e:#ffbf00"
+    foreground_color = "#ffbf00"
+    background_color = "#000000"
+    cursor_color = "#ffbf00"
+
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
