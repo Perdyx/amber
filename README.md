@@ -4,7 +4,9 @@ A monochromatic tri-tone colour scheme based on the aesthetic of VT420 machines.
 
 ![](https://raw.githubusercontent.com/Perdyx/amber/main/preview.png)
 
-![](https://raw.githubusercontent.com/Perdyx/amber/main/colours.png)
+## Usage
+
+Program-specific files can be found in this repository. Copy and paste their contents into your configs.
 
 ## Colours
 
@@ -40,6 +42,4 @@ FG: #FFBF00
 15: #FFBF00
 ```
 
-## Usage
-
-Program-specific files can be found in this repository. Copy and paste their contents into your configs.
+![](https://raw.githubusercontent.com/Perdyx/amber/main/colours.png)
