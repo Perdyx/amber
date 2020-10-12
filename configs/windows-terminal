@@ -1,0 +1,27 @@
+{
+    "name" : "Amber",
+
+    "cursorColor": "#FFBF00",
+    "selectionBackground": "#C78F00",
+
+    "background" : "#000000",
+    "foreground" : "#FFBF00",
+
+    "black" : "#000000",
+    "red" : "#FFF14E",
+    "green" : "#FFBF00",
+    "yellow" : "#FFBF00",
+    "blue" : "#C78F00",
+    "purple" : "#FFF14E",
+    "cyan" : "#FFBF00",
+    "white" : "#FFBF00",
+
+    "brightBlack" : "#000000",
+    "brightRed" : "#FFF14E",
+    "brightGreen" : "#FFF14E",
+    "brightYellow" : "#FFF14E",
+    "brightBlue" : "#C78F00",
+    "brightPurple" : "#FFF14E",
+    "brightCyan" : "#FFF14E",
+    "brightWhite" : "#FFBF00"
+}
