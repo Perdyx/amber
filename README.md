@@ -8,7 +8,7 @@ A monochromatic tri-tone colour scheme based on the aesthetic of VT420 machines.
 
 ## Usage
 
-Program-specific files can be found in this repository. Copy and paste their contents into your configs.
+Program-specific files can be found in configs/. Copy and paste their contents into your configs.
 
 ## Colours
 
