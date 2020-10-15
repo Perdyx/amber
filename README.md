@@ -12,7 +12,7 @@ Program-specific files can be found in configs/. Copy and paste their contents i
 
 ## Colours
 
-| ![](https://raw.githubusercontent.com/Perdyx/amber/7d11818435b65a1c19b9c09d7a71f78ebff6346d/colorize-24px.svg) | Palette | Hex | RGB | HSL | CMYK |
+| ![](https://github.com/Perdyx/amber/blob/main/colorize-24px.svg) | Palette | Hex | RGB | HSL | CMYK |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | ![](https://via.placeholder.com/15/000000/000000?text=+) | Background | `#000000` | `0, 0, 0` | `0, 0%, 0%` | `0%, 0%, 0%, 100%` |
 | ![](https://via.placeholder.com/15/ffbf00/000000?text=+) | Primary | `#FFBF00` | `255, 191, 0` | `45, 100%, 50%` | `0%, 25%, 100%, 0%`
