@@ -12,16 +12,12 @@ Program-specific files can be found in configs/. Copy and paste their contents i
 
 ## Colours
 
-### Palette
-
 | ![](https://raw.githubusercontent.com/Perdyx/amber/7d11818435b65a1c19b9c09d7a71f78ebff6346d/colorize-24px.svg) | Palette | Hex | RGB | HSL | CMYK |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | ![](https://via.placeholder.com/15/000000/000000?text=+) | Background | `#000000` | `0, 0, 0` | `0, 0%, 0%` | `0%, 0%, 0%, 100%` |
 | ![](https://via.placeholder.com/15/ffbf00/000000?text=+) | Primary | `#FFBF00` | `255, 191, 0` | `45, 100%, 50%` | `0%, 25%, 100%, 0%`
 | ![](https://via.placeholder.com/15/fff14e/000000?text=+) | Light | `#FFF14E` | `255, 241, 78` | `55, 100%, 65%` | `0%, 5%, 69%, 0%` |
 | ![](https://via.placeholder.com/15/c78f00/000000?text=+) | Dark | `#C78F00` | `199, 143, 0` | `43, 100%, 39%` | `0%, 28%, 100%, 22%` |
-
-### Base 16
 
 ```
 BG: #000000
