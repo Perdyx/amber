@@ -41,7 +41,3 @@ FG: #FFBF00
 ```
 
 ![](https://raw.githubusercontent.com/Perdyx/amber/main/colours.png)
-
-## Installation
-
-Configs can be found in the configs directory.
